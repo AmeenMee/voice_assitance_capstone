@@ -4,7 +4,7 @@ Here’s a concise **10-line README** for your GitHub project:
 
 ---
 
-# **ABROB Voice Assistant**
+voice_assistant
 
 This project is a **Speech-to-Text AI Assistant** that combines **Google Generative AI**, **Speech Recognition**, and **Text-to-Speech** technologies. The assistant captures spoken input, generates AI-driven responses, and reads them aloud.
 
